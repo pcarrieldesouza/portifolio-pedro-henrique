@@ -7,7 +7,7 @@ export const siteConfig = {
   headline: 'Data Analyst | Business Intelligence | Power BI | SQL | Python | ETL | Data Engineering',
   location: 'Curitiba, Paraná, Brasil',
   email: 'pcarrieldesouza@gmail.com',
-  linkedinUrl: 'https://www.linkedin.com/in/pedrohenrique-699b961b8',
+  linkedinUrl: 'https://www.linkedin.com/in/pedro-henrique-699b961b8',
   githubUrl: 'https://github.com/Pedrosco',
   siteUrl: 'https://portifolio-pedro-henrique.vercel.app',
 } as const
