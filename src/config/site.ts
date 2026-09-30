@@ -9,5 +9,5 @@ export const siteConfig = {
   email: 'pcarrieldesouza@gmail.com',
   linkedinUrl: 'https://www.linkedin.com/in/pedrohenrique-699b961b8',
   githubUrl: 'https://github.com/Pedrosco',
-  siteUrl: 'https://pedrohenrique-dados.vercel.app',
+  siteUrl: 'https://portifolio-pedro-henrique.vercel.app',
 } as const
