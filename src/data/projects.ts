@@ -32,4 +32,15 @@ export interface BIProject {
 // — o card mostrará "Link em breve" automaticamente, sem simular um acesso.
 // ============================================================================
 
-export const projects: BIProject[] = []
+export const projects: BIProject[] = [
+  {
+    id: 'xyz-clothes',
+    title: 'XYZ Clothes',
+    description:
+      'Dashboard de gestão para uma rede de lojas de roupas, com indicadores operacionais, gerenciais e estratégicos de Vendas, Atendimento, Financeiro e Logística: total de vendas, ticket médio, vendas por loja e categoria, evolução de atendimentos, contas a pagar/receber e status de entregas.',
+    technologies: ['Power BI', 'DAX', 'Power Query'],
+    image: '/images/projects/xyz-clothes-vendas.png',
+    dashboardUrl: 'https://app.powerbi.com/view?r=eyJrIjoiNmFjNDc5NGUtNGFlZS00MjQ1LTllYzktZjYxNGFhZjU3NTkwIiwidCI6IjdlZGVhNmFiLTUwMDctNDM3ZS1hYWEwLTAwYWRiZmVkMTBlYyJ9',
+    category: 'Varejo',
+  },
+]
